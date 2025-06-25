@@ -1,6 +1,6 @@
 {
-    "name": "PurpAMOLED",
-    "description": "AMOLED version of PurpDark",
+    "name": "HinaPajama",
+    "description": "Cute Wife with pajama",
     "authors": [
         {
             "name": "@vorlie",
@@ -116,6 +116,7 @@
         "YELLOW_300": "#B569E0",
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
+    }
     {,
   "background": {"url": "https://pin.it/5Z5TJcJIp"
 },
